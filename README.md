@@ -1,5 +1,5 @@
 # scripts-de-automacao-basica
-##
+
 Olá, eu sou Ralf 🦜. 
 
 Esses arquivos .bat foram criados por mim,  para otimizar o tempo gasto na instalação de programa por programa em cada laboratório de informática com mais de 20 computadores, que eu montava. 
@@ -17,4 +17,4 @@ Esse arquivo .bat, foi criado via notepad e pode ser modificado para os instala�
 Façam bom proveito 😉
 ##
 Caso tenham gostado e queiram saber mais sobre mim, meu perfil é esse: https://github.com/FistDark/
-##
+
